@@ -17,7 +17,7 @@ A Next.js foundation for a shop that will use Supabase, Google authentication, a
 
 Open [http://localhost:3000](http://localhost:3000) after the server starts.
 
-## Environment variables
+## Environment variable
 
 - `NEXT_PUBLIC_SUPABASE_URL`: Supabase project URL.
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`: browser-safe Supabase key.
